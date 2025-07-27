@@ -54,7 +54,7 @@ GO
 
 ### 5. Configure Environment Variables
 
-Create a .env file in the project root. For testing, generate free email credentials at Ethereal.email.
+Create a .env file in the project root. For testing, generate free email credentials at Ethereal.email and update EMAIL_USER and EMAIL_PASS
 
 ```ini
 # Database Credentials
